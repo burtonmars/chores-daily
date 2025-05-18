@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "37c003d4-0d73-4607-9e63-d1ed5d3b5bbc"
+      }
+    },
+    "owner": "burtonmars"
   }
 }
